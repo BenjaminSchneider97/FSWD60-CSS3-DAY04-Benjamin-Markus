@@ -41,17 +41,15 @@ img{
 		margin-bottom: 2.5%;
 	}
 	.space{
-		width: 0;
-	}
-	.img9{
-		position: relative;
-		left: 50%;
-		transform: translateX(-60%);
+		display: none;
 	}
 }
 @media screen and (max-width: 650px){
 	div.images{
 		width: auto;
-		margin: 1.5% 5%;
+		margin: 10%;
+	}
+	.space{
+		display: none;
 	}
 }
