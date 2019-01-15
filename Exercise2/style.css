@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px) {
+  body {
+    background-color: yellow; } }
+@media screen and (min-width: 481px) and (max-width: 1200px) {
+  body {
+    background-color: blue; } }
+@media screen and (min-width: 1201px) {
+  body {
+    background-color: grey; } }
+
+/*# sourceMappingURL=style.css.map */

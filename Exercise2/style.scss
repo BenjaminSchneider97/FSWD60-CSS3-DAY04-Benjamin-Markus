@@ -1,8 +1,13 @@
-@​media​ screen and (max-width: ​480px​) {
-     ​body​ {         ​background-color​: lightgreen;     } } 
-
-@​media​ screen and (min-width: ​481px​) and (max-width: ​1200px​) {     
-	​body​ {         ​background-color​: deepskyblue;     } } 
-
-@​media​ screen and (min-width:​1201px​) {     ​
-	body​ {         ​backgroun
+@media screen and (max-width: 480px){
+	body {
+		background-color: yellow;
+	}
+}
+@media screen and (min-width: 481px) and (max-width 1200px){
+	body{
+		background-color: blue;
+	}
+}
+@media screen and (min-width: 1201px){
+	body{background-color: grey;}
+}
