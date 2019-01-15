@@ -1,0 +1,12 @@
+.div1{
+	width: 90%;
+	height: 200px;
+	background-color: lightgrey;
+	margin: 50px 5%;
+}
+.div2{
+	@extend .div1;
+}
+.div3{
+	@extend .div1;
+}

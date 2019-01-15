@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,mBAAK;EACJ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,SAAS;EAC3B,MAAM,EAAE,OAAO",
+"sources": ["CSS-DAY04-first-exercise-style.scss"],
+"names": [],
+"file": "CSS-DAY04-first-exercise-style.css"
+}
