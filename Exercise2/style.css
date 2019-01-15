@@ -32,6 +32,17 @@ img {
 
 @media screen and (max-width: 1200px) {
   body {
-    background-color: yellow; } }
+    background-color: yellow; }
+
+  div.images {
+    width: 40%;
+    margin: 0 5%; } }
+@media screen and (max-width: 480px) {
+  body {
+    background-color: red; }
+
+  div.images {
+    width: auto;
+    margin: 0 5%; } }
 
 /*# sourceMappingURL=style.css.map */
