@@ -31,23 +31,21 @@ img{
 	font-size: 1.5em;
 }
 @media screen and (max-width: 1200px){
-	body{
-	background-color: yellow;
-	}
 		div.images{
 		width: 40%;
-		margin: 0 5%;
-
+		margin: 0.5% 5%;
+		float: left;
+	}
+	.heading{
+		margin-bottom: 2.5%;
+	}
+	.space{
+		width: 0;
 	}
 }
-
-@media screen and (max-width: 480px){
-	body{
-		background-color: red;
-	}
+@media screen and (max-width: 650px){
 	div.images{
 		width: auto;
-		margin: 0 5%;
-
+		margin: 1.5% 5%;
 	}
 }
